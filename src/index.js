@@ -22,5 +22,4 @@ expressServer.use((req, res) => {
 
 // Start
 expressServer.listen(port);
-
 console.log(`Server started on port ${port}`);
